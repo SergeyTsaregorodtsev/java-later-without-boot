@@ -5,18 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d479147-4718-4e08-8d19-c43257fb98e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LaterApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/config/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/user/FakeUserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/user/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/user/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/user/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/user/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/user/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/item/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/item/ItemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/item/ItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/item/ItemRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/item/ItemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/item/ItemServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/practicum/user/FakeUserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/user/UserRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/practicum/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/practicum/user/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/user/UserServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +61,31 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_directory_selection": "C:/Git/java-later-without-boot/src/main/java/ru/practicum"
+    "last_directory_selection": "C:/Git/java-later-without-boot/src/main/java/ru/practicum",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "spring.configuration.checksum": "36604b56b85e531c55b8c6b133c90713"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="ru.practicum" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LaterApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LaterApplication" />
+      <module name="java-later-without-boot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LaterApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -75,6 +96,8 @@
       <option name="presentableId" value="Default" />
       <updated>1662628105329</updated>
       <workItem from="1662628111783" duration="9715000" />
+      <workItem from="1662655523086" duration="4390000" />
+      <workItem from="1662659964774" duration="520000" />
     </task>
     <servers />
   </component>
