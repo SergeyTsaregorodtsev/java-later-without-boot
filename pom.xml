@@ -51,6 +51,27 @@
             <version>1.2.11</version>
         </dependency>
 
+        <!--интеграция JPA-->
+        <dependency>
+            <groupId>org.springframework.data</groupId>
+            <artifactId>spring-data-jpa</artifactId>
+            <version>2.6.1</version>
+        </dependency>
+
+        <!--реализация интерфейсов JPA-->
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-core</artifactId>
+            <version>5.4.17.Final</version>
+        </dependency>
+
+        <!--драйвер БД PostgreSQL-->
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>42.3.2</version>
+        </dependency>
+
     </dependencies>
 
 </project>
