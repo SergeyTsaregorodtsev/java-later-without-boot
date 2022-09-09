@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d479147-4718-4e08-8d19-c43257fb98e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/config/PersistenceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/item/ItemDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/item/ItemMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/user/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/user/UserMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/practicum/item/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/item/Item.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/practicum/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/practicum/user/User.java" afterDir="false" />
     </list>
@@ -55,7 +57,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "spring.configuration.checksum": "172184eb3dd7fdfa015208d12bf07566"
+    "spring.configuration.checksum": "36604b56b85e531c55b8c6b133c90713"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -89,6 +91,7 @@
       <workItem from="1662655523086" duration="4390000" />
       <workItem from="1662659964774" duration="520000" />
       <workItem from="1662660671655" duration="3139000" />
+      <workItem from="1662711754257" duration="2314000" />
     </task>
     <servers />
   </component>
